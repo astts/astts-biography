@@ -17,5 +17,9 @@ My name is astts and I'm an active developer. I'm aware of several development l
 - PYTHON
 - SQL
 
+# Languages I speak:
+- English
+- Spanish
+
 # 🕊️ How to contact me:
 - You can contact me through the discord platform. My username is "astt.eu".
