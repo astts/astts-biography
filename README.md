@@ -12,12 +12,8 @@ My name is astts and I'm an active developer. I'm aware of several development l
 
 # 🔠 Languages ​​I'm fluent in:
 - PHP
-- JAVA
-- HTML
-- PYTHON
-- SQL
 
-# 👅 Languages I speak:
+# 🔍 Languages I speak:
 - English
 - Spanish
 
