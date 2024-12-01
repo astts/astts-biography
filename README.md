@@ -1,4 +1,4 @@
-# astts-biography
+# astded-biography
 
 # 📂 Hi everyone, I present to you my new github account! 🎮
 
